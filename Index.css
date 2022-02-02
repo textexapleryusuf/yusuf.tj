@@ -1,0 +1,55 @@
+body {
+  /* background-image: url("../Foto/ITTJ.jpg");*/
+  background-size: 100%, 100%;
+  margin: 20px;
+}
+
+a {
+  color: White;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+a:hover {
+  color: #ff7b00;
+  text-decoration: none;
+}
+
+div {
+  background: white;
+  width: 23%;
+  height: 60px;
+  border: 5px solid blue;
+  margin: top;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding: 7px;
+  border-radius: 40px 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  background-color: blue;
+  border-radius: 20px;
+}
+
+th:hover {
+  background: #004bfa;
+  border-radius: 20px;
+  box-shadow: 0 0 5px 3px #ff7b00;
+}
+iframe {
+  border: 10px solid blue;
+  border-bottom: 0px;
+  border-top: 0px;
+  width: 90%;
+  margin-left: 5%;
+  border-radius: 20px;
+  height:70vh;
+  
+}
+.Yusuf {
+  font-size: 35px;
+}
